@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saminwankwo&theme=default)](https://git.io/streak-stats) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uchennaanya&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saminwankwo&layout=compact&theme=dracula)
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saminwankwo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   
