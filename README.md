@@ -1,6 +1,14 @@
 ### Hi there 👋 I'm Samuel
 
-I'm a software developer who is committed to making the internet a secure environment for everyone
+I'm a software developer who is committed to making the internet a secure environment for everyone.
+
+## Find me on the internet  :earth_africa::
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/saminwankwo)
+[![Website Badge](https://img.shields.io/badge/Website-000000?style=flat-square&logo=firefox&logoColor=FF7139)](https://saminwankwo.netlify.app)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/saminwankwo)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/saminwankwo)
+
 
 <!--
 **saminwankwo/saminwankwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,9 +33,6 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saminwankwo&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
-## Find me around the web :earth_africa::
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/saminwankwo)
-[![Website Badge](https://img.shields.io/badge/Website-000000?style=flat-square&logo=firefox&logoColor=FF7139)](https://saminwankwo.netlify.app)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/saminwankwo)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/saminwankwo)
+
+
