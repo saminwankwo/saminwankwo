@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Samuel
 
+I'm a software developer who is committed to making the internet a secure environment for everyone
+
 <!--
 **saminwankwo/saminwankwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
