@@ -9,7 +9,6 @@
   <a href="https://t.me/saminwankwo"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=saminwankwo&label=Profile+views&color=0e76a8&style=flat-square" alt="Profile views" />
 
 </div>
 
@@ -17,7 +16,7 @@
 
 ## 👨🏾‍💻 About me
 
-I'm a software developer based in **Port Harcourt, Nigeria**, committed to making the internet a secure environment for everyone.
+I'm a software developer based in **Nigeria**, committed to making the internet a secure environment for everyone.
 
 - ⚙️ Backend engineer with **5+ years in Node.js (NestJS, Express)** and **7+ years in PHP / Laravel**
 - 🏗️ I design scalable **microservices**, secure **REST & GraphQL APIs**, and multi-tenant SaaS platforms
