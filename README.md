@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e76a8,100:00c9a7&height=200&section=header&text=Samuel%20Nwankwo&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%C2%B7%20Building%20a%20more%20secure%20internet&descSize=17&descAlignY=60" width="100%" alt="Header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=0E76A8&center=true&vCenter=true&width=640&lines=NestJS+%C2%B7+Node.js+%C2%B7+Laravel;Microservices+%26+secure+APIs;Open-source+SDKs+on+npm" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=0E76A8&center=true&vCenter=true&width=640&lines=ExprssJS+%C2%B7+Node.js+%C2%B7+Laravel;Microservices+%26+secure+APIs;Open-source+SDKs+on+npm" alt="Typing animation" />
 
 <p>
   <a href="https://saminwankwo.dev">
@@ -28,7 +28,7 @@
 
 I'm a backend engineer based in **Nigeria**, focused on building reliable, scalable, and secure software systems.
 
-* ⚙️ **5+ years** building with Node.js (NestJS, Express) and **7+ years** with PHP / Laravel
+* ⚙️ **6+ years** building with Node.js (NestJS, Express) and **8+ years** with PHP / Laravel
 * 🏗️ Scalable microservices, secure REST & GraphQL APIs, and multi-tenant SaaS platforms
 * 🚀 Docker, GitHub Actions, AWS, and production deployments
 * 💳 Experience across fintech, e-commerce, healthtech, and EdTech
